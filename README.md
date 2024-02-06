@@ -183,3 +183,4 @@
 * [Eduonix Course Downloader](https://eduonix.pages.dev/)
 * [Khan-dl](https://github.com/rand-net/khan-dl)
 * [Discounted Udemy Course Enroller](https://github.com/techtanic/Discounted-Udemy-Course-Enroller)
+* * [Udemy Microsoft Downloader](https://microsoftedge.microsoft.com/addons/detail/udemy-downloader/nalkmdneafbahjimajlhkjnlkdgemnpl)
