@@ -81,6 +81,7 @@
 ## [↑](#contents) Discount Sites
 
 * [Freebies Global](https://freebiesglobal.com/)
+* [BlackTorrent](https://blackhattorrent.com/index.php)
 * [DiscUdemy](https://www.discudemy.com/)
 * [DesiDime](https://www.desidime.com/groups/education/coupons)
 * [Learn Viral](https://udemycoupon.learnviral.com/)
